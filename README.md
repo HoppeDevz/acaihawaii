@@ -9,3 +9,11 @@
 - Ao colocar os dados no formulário abaixo, os dados são encaminhados para o banco de dados, caso não exista o usuário e email inserido.
 - When placing the data in the form below, the data is forwarded to the database, if there is no user and email entered.
 <img src="https://i.imgur.com/mvJuBv1.png" width="300px" />
+
+## HomeScreen
+- Na tela "home" temos 3 botões os quais são:
+1. Fazer um pedido
+2. Ver meus pedidos
+3. Carrinho
+- Temos também o número de pedidos no carrinho atual.
+<img src="https://i.imgur.com/MRF0DbF.png" width="300px" />
