@@ -6,6 +6,12 @@
 2. Ver meus pedidos
 3. Carrinho
 - Temos também o número de pedidos no carrinho atual.
+
+- In the "home" screen we have 3 buttons which are:
+1. Place an order
+2. View my orders
+3. Cart
+- We also have the number of orders in the current cart.
 <img src="https://i.imgur.com/MRF0DbF.png" width="300px" />
 
 ## Login
