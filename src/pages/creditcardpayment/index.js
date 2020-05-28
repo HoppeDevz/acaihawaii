@@ -120,7 +120,7 @@ export default function CreditCardPayment() {
                     <Title>Pagamento do pedido</Title>
                 </HeaderCheckout>
                 <WebView
-                    source={{ uri: `http://51.79.44.6:56789/payments/checkout/${idPagamento}/${emailPagamento}/${descricaoPagamento}/${vlrPagamento}` }}
+                    source={{ uri: `http://localhost:56789/payments/checkout/${idPagamento}/${emailPagamento}/${descricaoPagamento}/${vlrPagamento}` }}
                     onNavigationStateChange={state => stateChange(state)}
                     startInLoadingState={true}
                     renderLoading={() => <ActivityIndicator></ActivityIndicator>}
